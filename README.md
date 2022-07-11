@@ -1,4 +1,4 @@
-# Times Program usisng the Pomodoro Technique
+# Timer Program usisng the Pomodoro Technique
 
 Project created by me using technologies such as:
 - TypeScript
