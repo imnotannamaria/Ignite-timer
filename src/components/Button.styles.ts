@@ -22,7 +22,7 @@ export const ButtonContainer = styled.button<ButtonConteinerProps> `
     cursor: pointer;
     font-weight: bold;
 
-    background-color: ${props => props.theme.primary};
+    background-color: ${props => props.theme["green-500"]};
     color: ${props => props.theme.white}
 
     /* 
