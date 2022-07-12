@@ -6,6 +6,7 @@ Project created by me using technologies such as:
 - Styled Components
 - EsLint
 - React-Router-Dom
+- React Hook Form
 ## Deploy
 
 To deploy this project, run
