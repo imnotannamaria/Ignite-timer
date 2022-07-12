@@ -7,6 +7,7 @@ Project created by me using technologies such as:
 - EsLint
 - React-Router-Dom
 - React Hook Form
+- zod
 ## Deploy
 
 To deploy this project, run
