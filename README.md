@@ -8,6 +8,9 @@ Project created by me using technologies such as:
 - React-Router-Dom
 - React Hook Form
 - zod
+- Context by React
+- Date Fns
+
 ## Deploy
 
 To deploy this project, run
