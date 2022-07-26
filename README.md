@@ -11,6 +11,7 @@ Project created by me using technologies such as:
 - EsLint
 - zod
 - Date Fns
+- immerJs
 
 ## Deploy
 
