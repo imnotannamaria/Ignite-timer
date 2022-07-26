@@ -3,14 +3,14 @@
 Project created by me using technologies such as:
 - TypeScript
 - React
-- Styled Components
-- EsLint
+- Reduce by React
+- Context by React
 - React-Router-Dom
 - React Hook Form
+- Styled Components
+- EsLint
 - zod
-- Context by React
 - Date Fns
-- Reduce by React
 
 ## Deploy
 
