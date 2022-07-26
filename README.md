@@ -10,6 +10,7 @@ Project created by me using technologies such as:
 - zod
 - Context by React
 - Date Fns
+- Reduce by React
 
 ## Deploy
 
