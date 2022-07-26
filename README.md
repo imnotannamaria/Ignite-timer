@@ -1,6 +1,11 @@
-# Timer Program the Pomodoro Technique
+<p align="center">
+  <img alt="Timer" src=".github/timer.png" width="100%">
+</p>
 
-Project created by me using technologies such as:
+## ✨ Technologies
+
+This project was developed with the following technologies:
+
 - TypeScript
 - React
 - Reduce by React
@@ -13,14 +18,16 @@ Project created by me using technologies such as:
 - Date Fns
 - immerJs
 
-## Deploy
+## 💻 Project
 
-To deploy this project, run
+A timer application that uses the Pomodoro Technique as a base. 
 
-```bash
-  npm i
-```
+## 🚀 Deploy
 
-```bash
-  npm run dev
-```
+- Clone the repository
+- Install dependencies with `npm install`
+- Start the server with `npm run dev`
+
+You can now access [`localhost:3000`](http://localhost:3000) from your browser.
+
+Project made in Ignite an acceleration program with React from @Rocketseat ♥ 
